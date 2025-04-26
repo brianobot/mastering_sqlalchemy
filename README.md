@@ -1,0 +1,1 @@
+Reference Material: https://blog.stackademic.com/mastering-sqlalchemy-with-fastapi-a-comprehensive-guide-from-beginner-to-advanced-06fc99496522
